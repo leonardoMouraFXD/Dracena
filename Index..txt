@@ -1,0 +1,2 @@
+<!Doctype Html>
+<!--Doctype é um DTD -->
